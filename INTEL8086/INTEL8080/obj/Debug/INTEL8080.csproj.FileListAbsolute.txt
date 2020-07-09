@@ -1,0 +1,15 @@
+C:\Users\minem\Desktop\Archi projekt\INTEL8080\INTEL8080\bin\Debug\INTEL8080.exe.config
+C:\Users\minem\Desktop\Archi projekt\INTEL8080\INTEL8080\bin\Debug\INTEL8080.exe
+C:\Users\minem\Desktop\Archi projekt\INTEL8080\INTEL8080\bin\Debug\INTEL8080.pdb
+C:\Users\minem\Desktop\Archi projekt\INTEL8080\INTEL8080\obj\Debug\MainWindow.g.cs
+C:\Users\minem\Desktop\Archi projekt\INTEL8080\INTEL8080\obj\Debug\App.g.cs
+C:\Users\minem\Desktop\Archi projekt\INTEL8080\INTEL8080\obj\Debug\INTEL8080_MarkupCompile.cache
+C:\Users\minem\Desktop\Archi projekt\INTEL8080\INTEL8080\obj\Debug\INTEL8080_MarkupCompile.lref
+C:\Users\minem\Desktop\Archi projekt\INTEL8080\INTEL8080\obj\Debug\MainWindow.baml
+C:\Users\minem\Desktop\Archi projekt\INTEL8080\INTEL8080\obj\Debug\INTEL8080.g.resources
+C:\Users\minem\Desktop\Archi projekt\INTEL8080\INTEL8080\obj\Debug\INTEL8080.Properties.Resources.resources
+C:\Users\minem\Desktop\Archi projekt\INTEL8080\INTEL8080\obj\Debug\INTEL8080.csproj.GenerateResource.cache
+C:\Users\minem\Desktop\Archi projekt\INTEL8080\INTEL8080\obj\Debug\INTEL8080.csproj.CoreCompileInputs.cache
+C:\Users\minem\Desktop\Archi projekt\INTEL8080\INTEL8080\obj\Debug\INTEL8080.exe
+C:\Users\minem\Desktop\Archi projekt\INTEL8080\INTEL8080\obj\Debug\INTEL8080.pdb
+C:\Users\minem\Desktop\Archi projekt\INTEL8080\INTEL8080\obj\Debug\INTEL8080.csprojAssemblyReference.cache
